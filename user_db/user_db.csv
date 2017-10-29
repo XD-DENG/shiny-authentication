@@ -1,0 +1,3 @@
+id, password, access_to_page_1, access_to_page_2
+"user1","123",1,0
+"user2","456",0,1
