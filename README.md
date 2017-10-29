@@ -12,7 +12,7 @@ The main ideas are
 [2] The UI containing key contents (which is supposed to be open only to users who logged in) will be rendered using `uiOutput` + `renderUI()`. Within `renderUI()`, we can use `if..else...` to check the authentication status, then render different contents for different authentication status.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/XD-DENG/shiny-authentication/master/idea_chart.png" alt="chart" style="width:80%;"/>
+<img src="https://raw.githubusercontent.com/XD-DENG/shiny-authentication/master/idea_chart.png" alt="chart" style="width:40%;"/>
 </p>
 
 ## Note
