@@ -24,6 +24,9 @@ ui <- fluidPage(
      column(8, offset = 2,
         wellPanel(
           uiOutput("ui_page_1")
+        ),
+        wellPanel(
+          uiOutput("ui_page_2")
         )
      )
    )
